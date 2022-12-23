@@ -1,5 +1,5 @@
 {
-  "name": "usefunhooks",
+  "name": "@jhersbo/usefunhooks",
   "version": "1.0.0",
   "description": "A collection of custom hooks that I've made over the years.",
   "main": "index.js",
