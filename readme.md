@@ -1,7 +1,7 @@
 # @jhersbo/useFunHooks
 
 ![npm (scoped)](https://img.shields.io/npm/v/@jhersbo/usefunhooks)
-![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@jhersbo/usefunhooks)
+
 ____
 ## About ##
 This package is (or will be) a collection of custom React.js hooks that I have created for niche purposes over the years. Before publishing, I will attempt to give them a higher level of abstraction, but they are predominantly wacky, fun hooks for niche purposes. The [repo](https://github.com/jhersbo/useFunHooks) is open source. Feel free to submit contributions. Enjoy!
