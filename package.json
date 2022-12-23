@@ -1,0 +1,22 @@
+{
+  "name": "usefunhooks",
+  "version": "1.0.0",
+  "description": "A collection of custom hooks that I've made over the years.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "Jack Ersbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhersbo/useFunHooks/issues"
+  },
+  "homepage": "https://github.com/jhersbo/useFunHooks#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
