@@ -16,4 +16,4 @@ ___
 ```javascript
     const point = useFollowPointer(ref)
 ```
-When passed an HTML `ref`, it will return the cursor's window position as `{x: number, y: number}`. I will consider scroll distance during this process. It is best used 
+When passed an HTML `ref`, it will return the cursor's window position as `{x: number, y: number}`. It will consider scroll distance during this process. It is best used 
